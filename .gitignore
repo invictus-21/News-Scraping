@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 #others
-key.txt
+*.toml
 chromedriver.exe
 .ipynb_checkpoints
